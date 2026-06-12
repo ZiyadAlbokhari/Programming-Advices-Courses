@@ -1,3 +1,4 @@
+> ### 🧠 Algorithms & Problem Solving
 > **A personal repository for solving algorithms and programming problems from Programming Advices platform, continuously improving problem-solving and coding skills.**
 > 
 > ### 🧩 C++ Algorithms (Foundations)
